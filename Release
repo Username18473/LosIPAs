@@ -1,0 +1,8 @@
+Origin: Los IPAs
+Label: IPA library
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: IPA library
